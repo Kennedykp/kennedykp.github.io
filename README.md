@@ -1,6 +1,6 @@
 LINK TO VIEW APP
 
-https://kennedykp.github.io/calculator-APP/
+ https://kennedykp.github.io/
 
 
 
