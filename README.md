@@ -1,10 +1,9 @@
 LINK TO VIEW APP
 
- https://kennedykp.github.io/
  
  https://calculatorken.netlify.app/
 
-
+Made with
 #VUE
 
 
